@@ -1,6 +1,3 @@
-gem 'activesupport', '~> 3.2.13'
-require 'active_support/vendor'
-
 class LessSimple
   @@klass = I18n::Backend::Simple
   
